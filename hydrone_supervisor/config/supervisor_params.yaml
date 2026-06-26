@@ -1,7 +1,0 @@
-hydrone_supervisor:
-  ros__parameters:
-    battery_critical_threshold: 20.0
-    depth_surface_threshold: 0.2
-    transition_timeout: 30.0
-    enable_failsafes: true
-    mission_auto_start: false
